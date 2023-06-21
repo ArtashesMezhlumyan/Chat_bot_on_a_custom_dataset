@@ -1,0 +1,7 @@
+langchain 
+transformers 
+sentence_transformers 
+llama-index
+logging
+locale
+telebot
