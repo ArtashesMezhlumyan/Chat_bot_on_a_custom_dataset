@@ -2,5 +2,4 @@ langchain
 transformers 
 sentence_transformers 
 llama-index
-locale
 telebot
